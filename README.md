@@ -4,6 +4,17 @@
 
 ## Index
 
+### 💎 Kafka
+
+1. [Questions](./kafka/00_questions.md) : Kafka 면접에서 자주 나오는 질문과 핵심 내용을 정리했어요.
+2. [Overview](./kafka/01_overview.md) : Kafka의 개념, 구조, 주요 특징을 설명했어요.
+3. [Core Components](./kafka/02_core_components.md) : Producer, Consumer, Broker 등 핵심 구성 요소를 다뤘어요.
+4. [Message Flow](./kafka/03_message_flow.md) : 메시지 저장 구조와 전달 보장 방식에 대해 설명했어요.
+5. [Operations](./kafka/04_operations.md) : Replication, Retention, 장애 대응, 모니터링 전략을 다뤘어요.
+6. [Usecases](./kafka/05_usecases.md) : Kafka의 실무 적용 사례를 다양한 패턴으로 정리했어요.
+7. [Troubleshooting](./kafka/06_troubleshooting.md) : Kafka 운영 중 자주 발생하는 문제와 해결 방법을 정리했어요.
+8. [Spring Integration](./kafka/07_spring_integration.md) : Spring Boot에서 Kafka를 연동할 때의 구조와 실무 팁을 정리했어요.
+
 ### 💎 Redis
 
 1. [Questions](./redis/00_questions.md) : 면접에서 자주 나오는 질문과 답변을 다뤘어요.
