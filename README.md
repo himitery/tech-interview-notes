@@ -4,6 +4,19 @@
 
 ## Index
 
+### ⭐️ Operating System
+
+1. [Questions](./os/00_questions.md) : 면접에서 자주 나오는 운영체제 질문들을 정리했어요.
+2. [Overview](./os/01_overview.md) : 운영체제의 정의와 핵심 역할을 설명했어요.
+3. [Process & Thread](./os/02_process_and_thread.md) : 프로세스/스레드 구조, 문맥 교환 등을 정리했어요.
+4. [Memory Management](./os/03_memory_management.md) : 가상 메모리, 페이징, 스와핑 등을 정리했어요.
+5. [CPU Scheduling](./os/04_cpu_scheduling.md) : 주요 스케줄링 알고리즘과 성능 지표를 정리했어요.
+6. [Synchronization](./os/05_synchronization.md) : 임계 구역, 세마포어, 데드락을 자세히 설명했어요.
+7. [File & I/O](./os/06_file_and_io.md) : 파일 시스템 구조와 I/O 처리 방식을 다뤘어요.
+8. [Virtualization](./os/07_virtualization.md) : 하이퍼바이저와 컨테이너 기반 가상화를 비교했어요.
+9. [Security & Protection](./os/08_security_and_protection.md) : 인증, 접근 제어, 보호 기법 등을 설명했어요.
+10. [Summary](./os/09_summary.md) : 운영체제 전체 내용을 핵심만 모아 요약했어요.
+
 ### 💎 Kafka
 
 1. [Questions](./kafka/00_questions.md) : Kafka 면접에서 자주 나오는 질문과 핵심 내용을 정리했어요.
